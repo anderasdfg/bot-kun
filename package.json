@@ -1,0 +1,23 @@
+{
+  "name": "botkun",
+  "version": "1.0.0",
+  "description": "A bot for Discord ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anderley Candela",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "distube": "^2.8.9",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^4.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
